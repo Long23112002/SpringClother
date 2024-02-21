@@ -30,4 +30,5 @@ build/
 !**/src/test/**/build/
 
 ### VS Code ###
-.vscode/
+src/.env
+src/main/java/com/example/springclother/enviroment/.env
